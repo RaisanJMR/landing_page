@@ -44,7 +44,7 @@
   position: relative;
   width: 60px;
   height: 60px;
-  background: url("./img/hamburger.png");
+  background: url('../img/hamburger.png');
   filter: invert(1);
   background-repeat: no-repeat;
   background-size: 30px;
@@ -52,7 +52,7 @@
   cursor: pointer;
 }
 .toggle.active {
-  background: url("./img/cancel.png");
+  background: url("../img/cancel.png");
   background-repeat: no-repeat;
   background-size: 25px;
   background-position: center;
